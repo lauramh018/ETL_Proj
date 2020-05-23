@@ -21,7 +21,6 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <meta name=ProgId content=Excel.Sheet>
 <meta name=Generator content="Microsoft Excel 15">
 <link rel=File-List href="Columns_files/filelist.xml">
-<style id="Columns_2316_Styles">
 <!--table
 	{mso-displayed-decimal-separator:"\.";
 	mso-displayed-thousand-separator:"\,";}
@@ -62,7 +61,6 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	mso-pattern:auto;
 	white-space:nowrap;}
 -->
-</style>
 </head>
 
 <body>
