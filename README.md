@@ -9,6 +9,31 @@ We download the data from Kaggle as csv, there were 4 files.
 3. names= 175,719 rows, 20 columns. 
 4. title_principals= 377,848 rows, 6 columns.
 
+<table>
+'imdb_title_id',
+ 'title',
+ 'original_title',
+ 'year',
+ 'date_published',
+ 'genre',
+ 'duration',
+ 'country',
+ 'language',
+ 'director',
+ 'writer',
+ 'production_company',
+ 'actors',
+ 'description',
+ 'avg_vote',
+ 'votes',
+ 'budget',
+ 'usa_gross_income',
+ 'worlwide_gross_income',
+ 'metascore',
+ 'reviews_from_users',
+ 'reviews_from_critics'
+</table>
+
 This kind of data is relational because in each table they have common ids like imdb_name_id and imdb_title_id
 
 **Transform**: what data cleaning or transformation was required. 
